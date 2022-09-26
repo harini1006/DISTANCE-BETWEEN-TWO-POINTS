@@ -12,7 +12,7 @@ Assign the values of point 1 and point 2 whose distance is to be calculated.
 ### Step 3: 
 Substitute the values in the distance formula  
 
-![FORMULA](/154259149-8112ebd3-30fe-4b4d-8101-66632e924678.jpeg)
+![FORMULA](./formula.jpeg)
 ### Step 4: 
 Print the coding to get the answer.
 
